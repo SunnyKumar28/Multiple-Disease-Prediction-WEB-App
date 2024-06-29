@@ -1,10 +1,10 @@
-# My Streamlit App
+## My Streamlit App
 
 This is a Streamlit app for predicting multiple diseases.
 
 ## Live Demo
 
-You can view the live demo of the app here: [Streamlit App]([https://share.streamlit.io/yourusername/your-repo-name/main/app.py](https://multiple-disease-prediction-web-app-tudfk3zpoycmmfccpnxj2s.streamlit.app/))
+You can view the live demo of the app here: [Streamlit App](https://multiple-disease-prediction-web-app-tudfk3zpoycmmfccpnxj2s.streamlit.app/)
 
 ## Installation
 
