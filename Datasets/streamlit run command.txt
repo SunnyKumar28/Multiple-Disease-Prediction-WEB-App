@@ -1,0 +1,2 @@
+
+streamlit run "/home/sunny-gupta/Multiple Disease Prediction System/multiple disease prediction .py"
