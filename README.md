@@ -7,6 +7,7 @@ This project is a web application for predicting various diseases using machine 
 ## Live Demo
 
 You can view the live demo of the app here: [Streamlit App](https://multiple-disease-prediction-web-app-tudfk3zpoycmmfccpnxj2s.streamlit.app/)
+You can view the live demo of the app here: [Streamlit App]([https://multiple-disease-prediction-web-app-tudfk3zpoycmmfccpnxj2s.streamlit.app/](https://multiple-disease-prediction-web-app-yhwy.onrender.com))
 
 ## Table of Contents
 - [Installation](#installation)
